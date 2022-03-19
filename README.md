@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The purpose of this challenge was to develop an HTML web page with information of UFO sightings. The webpage also has a filter search function according to date, city, state, country and shape.  Once provided information you are searching, it automatically displays the data about the sightings.
+The purpose of this challenge was to develop an HTML web page with information of UFO sightings. The webpage has a filter search function according to date, city, state, country and shape.  Once provided information you are searching, it automatically displays the data about the sightings.
 
  
 ## Results:
