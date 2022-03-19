@@ -15,11 +15,15 @@ The purpose of this challenge was to develop an HTML web page with information o
 
 
 •	The event listener is modified to detect changes to each filter in the app.js file.
+
 •	The updateFilters() function saves the element, value, and the id of the filter that was changed. 
+
 •	The filterTable() function loops through all of the filters and keeps any data that matches the filter values. 
+
 •	The webpage filters the table correctly based on user input.
 
 ![delive1-app_modification.png](https://github.com/OPahunang/UFOs/blob/main/resources/delive1-app_modification.png)
+
 
 
 ### Deliverable 2: Description of how to perform a search, with images
@@ -52,6 +56,7 @@ Filter Search by Country
 Filter Search by Shape
 
 ![deliv2-filter_by_shape.png](https://github.com/OPahunang/UFOs/blob/main/resources/deliv2-filter_by_shape.png)
+
 
 
 
